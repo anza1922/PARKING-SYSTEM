@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8"/>
     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-    <title>ParkirPro | <?= esc($title ?? 'Dashboard') ?></title>
+    <title>ParkirinAja | <?= esc($title ?? 'Dashboard') ?></title>
     <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
     <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&amp;family=Inter:wght@400;500;600&amp;display=swap" rel="stylesheet"/>
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
@@ -74,7 +74,7 @@ $inactiveClass = 'group flex items-center px-4 py-3 text-text-muted hover:text-p
             <span class="material-symbols-outlined text-white text-[20px] font-bold">local_parking</span>
         </div>
         <div>
-            <h1 class="text-xl font-extrabold text-text-main tracking-tight font-headline">ParkirPro</h1>
+            <h1 class="text-xl font-extrabold text-text-main tracking-tight font-headline">ParkirinAja</h1>
             <p class="text-[10px] text-text-muted font-bold tracking-widest uppercase mt-0.5">Terminal A</p>
         </div>
     </div>
@@ -160,8 +160,8 @@ $inactiveClass = 'group flex items-center px-4 py-3 text-text-muted hover:text-p
                 <!-- Dropdown Menu -->
                 <div id="profileDropdown" class="hidden absolute right-0 mt-3 w-60 bg-white rounded-2xl shadow-float border border-border-subtle overflow-hidden z-50 transform origin-top-right transition-all">
                     <div class="p-4 border-b border-border-subtle bg-gradient-to-br from-surface to-slate-50">
-                        <p class="text-sm font-extrabold font-headline text-text-main">Budi Santoso</p>
-                        <p class="text-[11px] font-bold text-text-muted mt-0.5">budi.admin@parkirpro.com</p>
+                        <p class="text-sm font-extrabold font-headline text-text-main">Budiono Speed</p>
+                        <p class="text-[11px] font-bold text-text-muted mt-0.5">budispeed.admin@parkirinAja.com</p>
                     </div>
                     <div class="p-2 space-y-1">
                         <a href="<?= site_url('/pengaturan') ?>" class="flex items-center gap-3 px-3 py-2.5 text-sm font-bold text-text-main hover:bg-slate-50 hover:text-primary rounded-xl transition-colors">

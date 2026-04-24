@@ -15,9 +15,9 @@
     <div class="bg-surface-card p-6 rounded-3xl border border-border-subtle shadow-soft hover:shadow-float transform hover:-translate-y-1 transition-all duration-300 relative overflow-hidden group">
         <div class="absolute top-0 right-0 w-24 h-24 bg-red-500/5 rounded-bl-full -z-0 group-hover:scale-110 transition-transform"></div>
         <p class="text-text-muted text-[10px] font-bold uppercase tracking-widest mb-2 relative z-10">Slot Terisi</p>
-        <h3 class="text-4xl font-extrabold text-text-main font-headline relative z-10">82%</h3>
+        <h3 class="text-4xl font-extrabold text-text-main font-headline relative z-10">52%</h3>
         <div class="mt-4 w-full bg-surface h-2 rounded-full overflow-hidden relative z-10">
-            <div class="bg-red-500 h-full w-[82%] rounded-full"></div>
+            <div class="bg-red-500 h-full w-[2%] rounded-full"></div>
         </div>
     </div>
     
