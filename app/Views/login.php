@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8"/>
     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-    <title>Login - ParkirPro</title>
+    <title>Login - ParkirinAja</title>
     <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
     <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&amp;family=Inter:wght@400;500;600&amp;display=swap" rel="stylesheet"/>
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
@@ -58,9 +58,9 @@
                 <div class="w-16 h-16 bg-white/20 backdrop-blur-xl rounded-2xl flex items-center justify-center border border-white/30 shadow-lg mb-8">
                     <span class="material-symbols-outlined text-white text-4xl font-bold" style="font-variation-settings: 'FILL' 1;">local_parking</span>
                 </div>
-                <h1 class="text-4xl lg:text-5xl font-extrabold text-white font-headline tracking-tight mb-4">ParkirPro</h1>
+                <h1 class="text-4xl lg:text-5xl font-extrabold text-white font-headline tracking-tight mb-4">ParkirinAja</h1>
                 <p class="text-blue-100 text-sm leading-relaxed max-w-sm font-medium opacity-90">
-                    Sistem Manajemen Parkir Cerdas Terintegrasi. Amankan kendaraan, pantau transaksi, dan kelola pendapatan dengan antarmuka yang elegan.
+                    Sistem Manajemen Parkir Terintegrasi. Amankan kendaraan, Pantau transaksi, dan kelola pendapatan anda.
                 </p>
             </div>
             
